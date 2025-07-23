@@ -18,6 +18,6 @@ function toogle() {
     header.classList.add("toogle_disabled");
     toogle_content.style.display = "none";
     toggle_image.src = "/images/main-menu.png";
-    toggle_image.alt = "Open Menu";
+    toggle_image.alt = "Close Menu";
   }
 }
