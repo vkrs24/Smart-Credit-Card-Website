@@ -16,7 +16,9 @@ header {
   width: 3rem;
 }
 
-.logo img {
+.logo i {
+  font-size: 2rem;
+  color: aliceblue;
   width: 100%;
   height: auto;
   cursor: pointer;
@@ -147,7 +149,10 @@ section {
   .toggle {
     width: 2rem;
   }
-  .toggle img {
+  .toggle i {
     width: 100%;
+    color: aliceblue;
+    font-size: 2rem;
+    cursor: pointer;
   }
 }
